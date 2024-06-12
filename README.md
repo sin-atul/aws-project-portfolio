@@ -52,9 +52,9 @@ Creating a serverless web application on AWS involves leveraging various AWS ser
 Architecture
 Components
 
-    Amazon S3: For static content hosting (HTML, CSS, JavaScript, images).
-    Amazon DynamoDB: For storing application data in a NoSQL database.
-    AWS Lambda: For executing backend logic in response to API requests.
-    IAM (Identity and Access Management): For managing access and permissions.
-    Amazon Route 53: For domain name system (DNS) management.
-    Amazon CloudFront: For content delivery network (CDN) to reduce latency.
+Amazon S3: For static content hosting (HTML, CSS, JavaScript, images).
+Amazon DynamoDB: For storing application data in a NoSQL database.
+AWS Lambda: For executing backend logic in response to API requests.
+IAM (Identity and Access Management): For managing access and permissions.
+Amazon Route 53: For domain name system (DNS) management.
+Amazon CloudFront: For content delivery network (CDN) to reduce latency.
